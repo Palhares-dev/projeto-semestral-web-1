@@ -1,21 +1,25 @@
 # Youtube Downloader
 Esse repositório foi feito para o trabalho semestral de Web.
 ## Começando a usar
-1. Vá até a pasta do servidor (usando o Sublime text ou Visual Studio)
+1.Clone o repositório
 ```
-cd Server
+git clone https://github.com/Palhares-dev/projeto-semestral-web-1
+```
+2. Entre no diretório do servidor
+```
+cd youtubeDownloader-master/Server
 ```
 
-2. Então você terá que instalar todos os packages
+2. Então instale todas as depedências
 ```
 npm install
 ```
 
-3. Inicie o node js
+3. Inicie o servidor
 ```
 node index.js
 ```
 
-4. O site estará funcionando perfeitamente.
+4. Agora abra o index.html localizado um diretório acima.
 
 OBS: USE TODOS ESSES COMANDOS DEVERÃO SER USADOS NO TERMINAL
