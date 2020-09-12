@@ -22,4 +22,4 @@ node index.js
 
 5. Agora abra o index.html localizado um diretório acima.
 
-OBS: USE TODOS ESSES COMANDOS DEVERÃO SER USADOS NO TERMINAL
+OBS:TODOS ESSES COMANDOS DEVERÃO SER USADOS NO TERMINAL
